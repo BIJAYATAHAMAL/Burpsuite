@@ -15,4 +15,5 @@ At its core, Burp Suite acts as an **intercepting proxy**, allowing users to ins
 
 Burp Suite is available in three editions: **Community (free)**, **Professional (paid)**, and **Enterprise (automated and scalable)**. While the Community Edition is useful for learning and basic testing, the Professional version includes advanced tools like the Scanner and Burp Collaborator for identifying complex vulnerabilities.
 
-Would you like a more detailed comparison between the Community and Professional versions?
+
+![burp](https://github.com/user-attachments/assets/a70e1736-a422-436e-b0c1-f6512994fe53)
