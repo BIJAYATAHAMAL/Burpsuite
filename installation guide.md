@@ -24,7 +24,7 @@
 
 ---
 
-## 🌐 **2. Configure Browser with Burp Suite (using Firefox)**
+##  **2. Configure Browser with Burp Suite (using Firefox)**
 
 ### **Step 1: Set up Burp Proxy in Firefox**
 
@@ -48,7 +48,7 @@
 
 ---
 
-## 🛠️ **3. How to Use Burp Suite for Parameter Tampering**
+##  **3. How to Use Burp Suite for Parameter Tampering**
 
 ### **Scenario: Changing Course Cost on Afa India Website**
 
